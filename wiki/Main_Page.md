@@ -3,6 +3,6 @@ layout: default
 title: HOME
 ---
 
-HELLO.
+[BEE](/wiki/BEE)
 
 PAGE SHORT IX.  you-HELP-us HOW?  EXPAND-elaborate IX-it.
