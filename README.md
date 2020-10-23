@@ -1,4 +1,6 @@
-# [Gloss Encyclopedia for American Sign Language](https://asl-encyclopedia.benjaminoakes.com/wiki/Main_Page)
+# [A-S-L ENCYCLOPEDIA](https://asl-encyclopedia.benjaminoakes.com/wiki/Main_Page)
+
+An encyclopedia written in American Sign Language gloss.
 
 Think "Wikipedia" but written in ASL grammar and glossed signs.
 
