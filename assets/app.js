@@ -23,3 +23,12 @@ function showSigns () {
     element.style.fontSize = "100px"
     element.innerHTML = signGloss.signedHtml()
 }
+
+async function edit (event) {
+    let url = event.target.dataset.markdownUrl
+
+    let response = await fetch(url)
+    let markdown = await response.text()
+
+    console.log(markdown)
+}
