@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: stub
 title: HOME
 ---
 
@@ -11,6 +11,6 @@ title: HOME
 
   - [TREE](/wiki/TREE)
 
----
+## SCHOOL
 
-PAGE SHORT IX.  you-HELP-us HOW?  EXPAND-elaborate IX-it.
+  - [GALLAUDET UNIVERSITY](/wiki/GALLAUDET_UNIVERSITY)
