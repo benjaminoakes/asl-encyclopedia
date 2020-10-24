@@ -24,8 +24,9 @@ function showSigns () {
     element.innerHTML = signGloss.signedHtml()
 }
 
-async function edit (event) {
-    let url = event.target.dataset.markdownUrl
+async function edit () {
+    let element = document.getElementById("edit")
+    let url = element.dataset.markdownUrl
 
     let response = await fetch(url)
     let markdown = await response.text()
