@@ -20,5 +20,6 @@ function showSigns () {
     let element = document.getElementById("page-content")
     let signGloss = new SignGloss(element.innerText)
 
+    element.style.fontSize = "100px"
     element.innerHTML = signGloss.signedHtml()
 }
